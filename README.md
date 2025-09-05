@@ -8,7 +8,7 @@ Este projeto é uma landing page com um ícone de lupa no centro da página. Ao 
 
 HTML5:
 
-Neste projeto, explorei a funcionalidade da tag <label>, que permite criar interações com outros elementos, como o checkbox. Ao vincular o ícone à tag <label>, consigo acionar uma animação que exibe a barra de pesquisa quando o ícone é clicado.
+Neste projeto, explorei a funcionalidade da tag label, que permite criar interações com outros elementos, como o checkbox. Ao vincular o ícone à tag label, consigo acionar uma animação que exibe a barra de pesquisa quando o ícone é clicado.
 
 CSS3:
 
