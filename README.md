@@ -1,4 +1,4 @@
-Projeto 07 - Barra de Pesquisa
+Projeto 08 - Barra de Pesquisa
 
 🚀 Sobre o Projeto:
 
